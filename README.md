@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moe
-- 🌱 I’m currently working [Basmtak HR managment System](bamstak.com)...
+- 🌱 I’m currently working [Basmtak HR managment System](https://bamstak.com)...
 - 📫 How to reach me: Moealsadiq@outlook.com
 -
 
