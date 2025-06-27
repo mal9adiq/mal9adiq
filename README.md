@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Moe
-- 🌱 I’m currently working on [Basmtak HR managment System](https://basmtak.com)
 - 📫 How to reach me: Moealsadiq@outlook.com
 -
 
